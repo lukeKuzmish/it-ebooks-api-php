@@ -6,7 +6,8 @@ http://it-ebooks.info/
 - TODO figure out the minimum version PHP
 
 # To use:
-`<?php
+```php
+<?php
 require "class.itebooks.php";
 
 $ite_client = new ItEbooksApi();
@@ -134,7 +135,7 @@ $detailsJson = $ite_client->details($bookId);
     "Download": "http:\/\/filepi.com\/i\/lllThS8"
 }
 */
-`
+```
 
 # Known Issues
 - The search functionality for multiple pages is not working 100%, though it seems to work fine for a single page
