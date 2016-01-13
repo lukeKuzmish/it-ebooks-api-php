@@ -1,5 +1,6 @@
 # IT-eBooks API PHP SDK
 A simple class for interacting with IT-eBooks API with PHP
+http://it-ebooks.info/
 
 - Requires cURL
 - TODO figure out the minimum version PHP
